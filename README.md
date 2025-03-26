@@ -1,4 +1,16 @@
-# Introduction to GitHub
+<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+
+⭐️ Congratulations boggypop57! ⭐️
+
+You completed this exercise! Nice work! 🥳
+
+If you would like to practice again, you can retrace your steps below. Just press the **Start Exercise** button again.
+
+> [!TIP]
+> Mona won't grade you this time! 😉
+
+
+ # Introduction to GitHub
 
 <!-- ![](https://github.com/boggypop57/tutorial_that_will_doom_you/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/boggypop57/tutorial_that_will_doom_you/actions/workflows/1-create-a-branch.yml/badge.svg)
